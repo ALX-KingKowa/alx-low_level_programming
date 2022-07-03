@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/** main - prints the size of primitives
+/**
+ * main - prints the size of primitives
  *
  * Return: returns 0 of everything is ok
  */
