@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Description: How to use the puts function 
+ * How to use the puts function
  *
  * main - contain the "puts()" function which print the text to standard out
  * Return: returns 0 if everything goes as expected
