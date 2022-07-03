@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * How to use the puts function
- *
  * main - contain the "puts()" function which print the text to standard out
+ *
  * Return: returns 0 if everything goes as expected
  */
 int main(void)
