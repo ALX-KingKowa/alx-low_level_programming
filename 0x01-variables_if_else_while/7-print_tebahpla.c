@@ -2,7 +2,7 @@
 
 /**
  * main - the purpose of this program is to
- * print lowercase letters in reverse order 
+ * print lowercase letters in reverse order
  *
  * Return: returns 0 if everything is o.k
  */
