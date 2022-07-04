@@ -2,7 +2,7 @@
 
 /**
  * main - the purpose of this program is to
- * lower case letters of the alphabet except 
+ * lower case letters of the alphabet except
  * the letters q and e
  *
  * Return: returns 0 if everything is o.k
