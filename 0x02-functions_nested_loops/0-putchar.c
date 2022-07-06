@@ -12,7 +12,7 @@ int i;
 char charArr[] = "_putchar";
 for (i = 0; i < 8; i++)
 {
-_putchar(p[i]);
+_putchar(charArr[i]);
 }
 _putchar('\n');
 return (0);
