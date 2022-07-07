@@ -20,7 +20,7 @@ return (-last_d);
 }
 else
 {
-_putchar(l + 48);
+_putchar(last_d + 48);
 return (last_d);
 }
 }
