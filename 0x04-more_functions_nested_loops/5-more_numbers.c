@@ -14,7 +14,7 @@ int i, num;
 
 for (i = 0; i < 10; i++)
 {
-for (num = 0; ch < 15; ch++)
+for (num = 0; num < 15; num++)
 {
 if (num >= 10)
 _putchar((num / 10) + 48);
