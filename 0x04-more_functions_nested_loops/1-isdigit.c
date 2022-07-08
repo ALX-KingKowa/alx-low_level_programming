@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _isupper - checks if a particular character
- * is uppercase
+ * _isdigit - checks for a digit between
+ * 0 and 9
  *
  * @c: parameter to be checked
  *
