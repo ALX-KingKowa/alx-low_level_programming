@@ -3,6 +3,8 @@
 /**
  * reset_to_98 - function to multiply two numbers
  *
+ * @a: input parameter
+ *
  * Return: returns the product of two numbers
  *
  */
