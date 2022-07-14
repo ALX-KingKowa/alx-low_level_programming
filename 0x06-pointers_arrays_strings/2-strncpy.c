@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _strcmp - this function compare two strings
- * @s1: pointer to the first string
- * @s2: pointer to the second string
+ * _strncpy- this function copies a string
+ * @dest: pointer to the first string
+ * @src: pointer to the second string
  * @n: number of bytes
  * Return: returns a character
  */
