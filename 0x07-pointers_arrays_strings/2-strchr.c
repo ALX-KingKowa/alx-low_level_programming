@@ -1,22 +1,19 @@
 #include "main.h"
 
 /**
- * _strchr - a function that fills memory with a constant byte
- * @s: pointer to memory area
- * @c: constant 
- * Return: returns a pointer to memory address area s
+ * _strchr - locates a character in a string,
+ * @s: string.
+ * @c: character.
+ * Return: the pointer to the first occurrence of the character c.
  */
-
 char *_strchr(char *s, char c)
 {
-unsigned int i;
-for (i = 0; *(s + i) = '\0'; i++)
-{
+unsigned int i = 0;
+
+for (; *(s + i) != '\0'; i++)
 if (*(s + i) == c)
-{
 return (s + i);
-}
-else
-}
+if (*(s + i) == c)
+return (s + i);
 return ('\0');
 }
