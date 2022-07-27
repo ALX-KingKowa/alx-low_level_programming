@@ -30,4 +30,3 @@ chstr[j] = str[j];
 
 return (chstr);
 }
-}
