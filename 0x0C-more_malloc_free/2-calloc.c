@@ -2,11 +2,12 @@
 #include <stdlib.h>
 
 /**
- * _callco - function that allocates memory for an array, using malloc
- *
+ * _calloc - function that allocates memory for an array, using malloc
  * @nmemb: number of elements
  * @size: byte of each element
  * Return: returns a pointer to the alloacted memory
+ * if nmemb or size is 0, returns NULL.
+ * if malloc fails, returns NULL.
  *
  */
 
