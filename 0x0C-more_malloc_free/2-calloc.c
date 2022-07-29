@@ -26,5 +26,5 @@ for(i = 0; i < nmemb * size; i++)
 {
 memptr[i] = 0;
 }
-return memptr;
+return (memptr);
 }
