@@ -4,9 +4,10 @@
 /**
  * _callco - function that allocates memory for an array, using malloc
  *
- *@nmemb: number of elements
- *@size: byte of each element
- *Return: returns a pointer to the alloacted memory
+ * @nmemb: number of elements
+ * @size: byte of each element
+ * Return: returns a pointer to the alloacted memory
+ *
  */
 
 void *_calloc(unsigned int nmemb, unsigned int size)
